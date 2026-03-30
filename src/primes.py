@@ -14,3 +14,9 @@ for num in range(lower, upper + 1):
                break
        else:
            print(num)
+
+#Programa que calcula números primos
+#Autor: Juan Balbuena
+#Materia: Ingeniería en Software II
+
+#Función para verificar si un número es primo
